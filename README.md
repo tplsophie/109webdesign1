@@ -20,6 +20,4 @@
 * 將REPO連結貼於期末專案繳交區(HackMD於最後一天開放)，並註記姓名
 * [範例](http://git.intellicvorg.nctu.me/109web/example/cover.html)
 
-| Column 1 | Column 2 | Column 3 |4444|
-| -------- | -------- | -------- |------|
-| Text     | Text     | Text     |iiii|
+
